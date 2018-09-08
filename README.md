@@ -1,5 +1,5 @@
 # Terraria-IMPCN
-Improve the Vanilla Chinese to make its translation more perfect!
+Improves and polishes the official Chinese translation to make its translation more perfect!
 
 ## What is IMPCN?
 As the name suggests, IMPCN is the better version of official Chinese Translation. It improves almost every aspect of the official translation. To revamp the official Chinese translation, we would review all original texts and rectify all incorrect, misleading and mistaken translations, including those that do not match pronounciation. Hoping that it would be close to old or better translations. Ultimately close to the Faithfulness, Expressiveness and Gracefulness standard. This project is certain to be taking huge amount of dedication, estimated content to be translated and/or corrected includes: Interface, Tooltips, Map Legends, Items, Projectiles, NPC, BUFF, Achievements, Conversations, Tips, etc.
